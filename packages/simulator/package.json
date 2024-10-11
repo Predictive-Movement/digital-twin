@@ -16,7 +16,7 @@
     "@elastic/elasticsearch": "^7.17.0",
     "adm-zip": "^0.5.10",
     "chalk": "^3.0.0",
-    "cookie": "^0.5.0",
+    "cookie": "^0.7.0",
     "csv-parse": "^4.16.0",
     "csv-stream": "^0.2.0",
     "date-fns": "^2.29.3",
